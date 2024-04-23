@@ -1,5 +1,8 @@
 # CS-330_Comp-Graphic-and-Visualization
 
+<img align="left" alt="BeforePicture" src="ReferanceImage.jpg" width="250" style="padding-right:30px;"/>
+<img alt="AfterPicture" src="OpenGL_SS.png" width="400"/>
+
 ## How do I approach designing software?
 As an aspiring video game developer, I've been fascinated with learning every tool that could assist me in pursuing my goals. CS 330 Comp Graphic and Visualization has been one of my favorite classes. It has been both interesting to learn and has inspired me to look to the future and plan out my next steps in life. I will approach designing software with open arms eager to learn and create. Design software such as Unity and Unreal Engine are great next steps for 3D design. OpenGL has been great at providing me with base knowledge in this aspect of computer science. This course taught me the basics of shape, spacing, texturing, lighting, and shading in a digital 3D environment. I wouldn't say I followed a specific design process but there definitely was an order in which things we completed. First, the general shapes were placed, then the scene was textured and finally, the scenes were given light. Keeping this bare-bones process in mind will help me develop large-scale projects in the future.
 
